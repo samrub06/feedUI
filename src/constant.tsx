@@ -1,0 +1,1 @@
+export const API_TRACK_IMPRESSION = 'https://backend.tedooo.com/hw/feed.json';
